@@ -1,0 +1,52 @@
+{
+  "userReg": [
+    {
+      "id": "1",
+      "username": "hemant",
+      "email": "hem2345@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "2",
+      "username": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "3",
+      "username": "rahul",
+      "email": "rahulsub@gmail.com",
+      "password": "90909090"
+    },
+    {
+      "id": "4",
+      "username": "david",
+      "email": "david123@gmail.com",
+      "password": "davidrocks09"
+    },
+    {
+      "id": "5",
+      "username": "eve",
+      "email": "eve.adams@gmail.com",
+      "password": "evelyn2024"
+    },
+    {
+      "id": "6",
+      "username": "frank",
+      "email": "frank123@gmail.com",
+      "password": "frankpassword"
+    },
+    {
+      "id": "7",
+      "username": "grace",
+      "email": "grace.jones@gmail.com",
+      "password": "gracelovesdogs"
+    },
+    {
+      "id": "8",
+      "username": "harry",
+      "email": "harry.potter@gmail.com",
+      "password": "hogwarts2024"
+    }
+  ]
+}
